@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ASEMB-8.000MHZ-XY-T
+#/258004/119048/2.41/4/4/Crystal or Oscillator
+DEF ASEMB-8.000MHZ-XY-T Y 0 30 Y Y 1 F N
+F0 "Y" 1250 300 50 H V L CNN
+F1 "ASEMB-8.000MHZ-XY-T" 1250 200 50 H V L CNN
+F2 "ASEMB" 1250 100 50 H I L CNN
+F3 "https://abracon.com/Oscillators/ASEMB.pdf" 1250 0 50 H I L CNN
+F4 "Standard Clock Oscillators 8MHz 10ppm -40C +105C" 1250 -100 50 H I L CNN "Description"
+F5 "" 1250 -200 50 H I L CNN "Height"
+F6 "ABRACON" 1250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "ASEMB-8.000MHZ-XY-T" 1250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "815-ASEMB-8-XY-T" 1250 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=815-ASEMB-8-XY-T" 1250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1250 -700 50 H I L CNN "RS Part Number"
+F11 "" 1250 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+X STANDBY 1 0 0 200 R 50 50 0 0 B
+X GND 2 0 -100 200 R 50 50 0 0 B
+X OUTPUT 3 1400 0 200 L 50 50 0 0 B
+X VDD 4 1400 -100 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 1200 100 1200 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

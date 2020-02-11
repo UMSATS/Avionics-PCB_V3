@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetDrogue_1 Pin=Drogue-1
+Removed Pin From Net: NetName=GND Pin=Drogue-2
+Removed Pin From Net: NetName=NetFET2_1 Pin=Main-1
+Removed Pin From Net: NetName=GND Pin=Main-2
+Removed Member From Class: ClassName=Sheet3 Member=Drogue
+Removed Member From Class: ClassName=Sheet3 Member=Main
+Removed Member From Class: ClassName=Sheet1 Member=P4
+Added Component: Designator=P5(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=NetDrogue_1 Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=NetFET2_1 Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=LiPo Pin=P5-4
+Change Net Name : Old Net Name=NetDrogue_1 New Net Name=NetFET1_1
+Added Member To Class: ClassName=Sheet3 Member=Component P4 Header 4
+Added Member To Class: ClassName=Sheet3 Member=Component P5 Header 5

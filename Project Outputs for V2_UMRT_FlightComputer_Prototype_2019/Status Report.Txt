@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [V2_UMRT_FlightComputer_Prototype_2019.PrjPcb]
+   Generated File[PCB_Prototype.TXT]
+   Generated File[PCB_Prototype.LDP]
+   Generated File[PCB_Prototype.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:48:29 PM On 2019-05-13

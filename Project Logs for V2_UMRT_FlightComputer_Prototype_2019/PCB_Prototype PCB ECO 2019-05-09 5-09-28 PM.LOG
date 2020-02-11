@@ -1,0 +1,15 @@
+Added Component: Designator=Buzz(*PS1240P02BT_PS1240P02BT(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PS1240P02BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2020 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PS1240P02BT/TDK-Lambda%20Americas%20Inc/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LiPo Pin=Buzz-P$1
+Added Pin To Net: NetName=NetBuzz_P$2 Pin=Buzz-P$2
+Added Pin To Net: NetName=NetBuzz_P$2 Pin=Q1-3
+Added Pin To Net: NetName=NetBuzz_P$2 Pin=R32-1
+Added Net: Name=NetBuzz_P$2
+Added Member To Class: ClassName=Sheet4 Member=Component Buzz PS1240P02BT

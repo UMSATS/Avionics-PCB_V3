@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=P5-1
+Removed Pin From Net: NetName=NetFET2_1 Pin=P5-2
+Removed Pin From Net: NetName=GND Pin=P5-3
+Removed Pin From Net: NetName=LiPo Pin=P5-4
+Removed Member From Class: ClassName=Sheet3 Member=P5
+Change Component Comment : Designator=P4 Old Comment=Header 4 New Comment=Header 5

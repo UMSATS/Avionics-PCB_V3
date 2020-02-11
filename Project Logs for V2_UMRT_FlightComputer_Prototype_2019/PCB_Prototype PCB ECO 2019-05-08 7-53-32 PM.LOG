@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=LiPo Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Member From Class: ClassName=Sheet3 Member=J1

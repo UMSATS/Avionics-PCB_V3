@@ -1,0 +1,32 @@
+PCAD Importer Log
+Project : PS1240P02BT.LibPkg
+
+Section : D:\UMSATS\Rocket\Recovery control\Altium\Full_Version_V2\Libraries\PS1240P02BT\PS1240P02BT.lia
+    Section : PCB Library - PS1240P02BT.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 90
+            Warning - 1 : Skipping Token PS1240P02BT On Line 94
+            Warning - 1 : Skipping Token attachedSymbol On Line 139
+            Warning - 1 : Skipping Token 2 On Line 142
+            Warning - 1 : Skipping Token 1 On Line 144
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*PS1240P02BT][Primary] associated with PCAD Component [PS1240P02BT] has been renamed to PCB FootPrint [*PS1240P02BT_PS1240P02BT(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - PS1240P02BT.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token 2 On Line 142
+            Warning - 1 : Skipping Token 1 On Line 144
+        EndSection
+
+        Section : Generating SCH Library - PS1240P02BT.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*PS1240P02BT][Primary] associated with PCAD Component [PS1240P02BT] has been renamed to PCB FootPrint [*PS1240P02BT_PS1240P02BT(Primary)].
+        EndSection
+    EndSection
+EndSection

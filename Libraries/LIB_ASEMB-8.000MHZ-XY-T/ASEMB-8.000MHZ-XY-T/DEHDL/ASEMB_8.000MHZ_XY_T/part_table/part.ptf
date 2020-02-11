@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ASEMB_8.000MHZ_XY_T'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "ABRACON", "ASEMB-8.000MHZ-XY-T" (!) = "", "ASEMB", "Other", "815-ASEMB-8-XY-T", "https://www.mouser.com/Search/Refine.aspx?Keyword=815-ASEMB-8-XY-T", "", "", "Standard Clock Oscillators 8MHz 10ppm -40C +105C", "https://abracon.com/Oscillators/ASEMB.pdf"
+END_PART
+
+END.

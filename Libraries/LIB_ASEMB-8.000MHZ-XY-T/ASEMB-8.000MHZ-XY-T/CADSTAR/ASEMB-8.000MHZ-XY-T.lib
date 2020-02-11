@@ -1,0 +1,17 @@
+.ASEMB-8.000MHZ-XY-T :1 ;Standard Clock Oscillators 8MHz 10ppm -40C +105C
+ASEMB
+*STM Y
+*NGS
+*PLB 1="STANDBY" 2="GND" 3="OUTPUT" 4="VDD"
+*MXP 4
+*DFN ASEMB-8.000MHZ-XY-T
+~!Manufacturer_Name (ABRACON)
+~!Manufacturer_Part_Number (ASEMB-8.000MHZ-XY-T)
+~!Mouser Part Number (815-ASEMB-8-XY-T)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=815-ASEMB-8-XY-T)
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Link Datasheet (https://abracon.com/Oscillators/ASEMB.pdf)
+~!Height (-)
+ASEMB-8.000MHZ-XY-T
+1.1!U 2.1!U 3.1!U 4.1!U 

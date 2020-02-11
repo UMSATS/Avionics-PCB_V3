@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ASEMB"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ASEMB")
+        (spec "default")
+    )
+)

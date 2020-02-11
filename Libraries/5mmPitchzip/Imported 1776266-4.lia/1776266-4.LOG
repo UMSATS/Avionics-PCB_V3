@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : 1776266-4.LibPkg
+
+Section : D:\UMSATS\Rocket\Recovery control\Altium\Full_Version_V2\Libraries\5mmPitchzip\1776266-4.lia
+    Section : PCB Library - 1776266-4.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 1776266-4 On Line 135
+            Warning - 1 : Skipping Token attachedSymbol On Line 204
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 1776266-4.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 109
+            Warning - 1 : Skipping Token layerContents On Line 115
+            Warning - 1 : Skipping Token layerContents On Line 124
+        EndSection
+
+        Section : Generating SCH Library - 1776266-4.SchLib
+        EndSection
+    EndSection
+EndSection

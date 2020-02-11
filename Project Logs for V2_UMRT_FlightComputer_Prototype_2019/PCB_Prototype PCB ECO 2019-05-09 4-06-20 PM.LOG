@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetDriver2_3 Pin=U1-14
+Removed Pin From Net: NetName=NetDriver2_2 Pin=U1-15
+Removed Pin From Net: NetName=NetDriver2_1 Pin=U1-16
+Removed Pin From Net: NetName=NetComp2_4 Pin=U1-17
+Removed Pin From Net: NetName=NetComp1_4 Pin=U1-40
+Removed Pin From Net: NetName=NetDriver1_1 Pin=U1-41
+Removed Pin From Net: NetName=NetDriver1_2 Pin=U1-42
+Removed Pin From Net: NetName=NetDriver1_3 Pin=U1-43
+Added Pin To Net: NetName=NetDriver1_3 Pin=U1-14
+Added Pin To Net: NetName=NetDriver1_2 Pin=U1-15
+Added Pin To Net: NetName=NetDriver1_1 Pin=U1-16
+Added Pin To Net: NetName=NetComp1_4 Pin=U1-17
+Added Pin To Net: NetName=NetComp2_4 Pin=U1-40
+Added Pin To Net: NetName=NetDriver2_1 Pin=U1-41
+Added Pin To Net: NetName=NetDriver2_2 Pin=U1-42
+Added Pin To Net: NetName=NetDriver2_3 Pin=U1-43

@@ -1,0 +1,119 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "Labcenter Electronics")
+ (version 1 0)
+ (library
+  (part "ASEMB-8.000MHZ-XY-T"
+   (description "Standard Clock Oscillators 8MHz 10ppm -40C +105C")
+   (family "OSC")
+   (package "ASEMB")
+   (attribute "Datasheet Link" "https://abracon.com/Oscillators/ASEMB.pdf")
+   (attribute "Manufacturer_Name" "ABRACON")
+   (attribute "Manufacturer_Part_Number" "ASEMB-8.000MHZ-XY-T")
+   (attribute "Mouser Part Number" "815-ASEMB-8-XY-T")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=815-ASEMB-8-XY-T")
+   (attribute "RS Part Number" "")
+   (attribute "RS Price/Stock" "")
+   (gate
+    (symbol "ASEMB-8.000MHZ-XY-T")
+    (pin "STANDBY" 1 PS)
+    (pin "GND" 2 PS)
+    (pin "OUTPUT" 3 PS)
+    (pin "VDD" 4 PS)
+   )
+  )
+  (symbol "ASEMB-8.000MHZ-XY-T"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1200 100) (pt 1200 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "ASEMB"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.6 -1.25)
+      (pt 1.6 -1.25)
+      (pt 1.6 1.25)
+      (pt -1.6 1.25)
+      (pt -1.6 -1.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.3 1.25)
+      (pt 0.3 1.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.6 0.2)
+      (pt -1.6 -0.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.3 -1.25)
+      (pt 0.3 -1.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 1.6 0.2)
+      (pt 1.6 -0.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt -1.15 -1.85) (pt -0.95 -1.85)
+     )
+    )
+   )
+   (leg 1 (pt -1.05 -0.95) (padstack 0))
+   (leg 2 (pt 1.05 -0.95) (padstack 0))
+   (leg 3 (pt 1.05 0.95) (padstack 0))
+   (leg 4 (pt -1.05 0.95) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.9 1 0 0 90))
+   )
+  )
+ )
+)

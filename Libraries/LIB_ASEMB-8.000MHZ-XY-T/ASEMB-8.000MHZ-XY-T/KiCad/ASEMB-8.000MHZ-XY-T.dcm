@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ASEMB-8.000MHZ-XY-T
+D Standard Clock Oscillators 8MHz 10ppm -40C +105C
+K
+F https://abracon.com/Oscillators/ASEMB.pdf
+$ENDCMP
+#
+#End Doc Library
