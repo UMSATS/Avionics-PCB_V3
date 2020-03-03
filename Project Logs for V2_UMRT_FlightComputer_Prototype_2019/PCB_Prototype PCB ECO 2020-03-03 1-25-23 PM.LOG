@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=S1 Old Footprint=SPST-2 New Footprint=PTS530GG065SMTRLFS
+Change Component Footprint: Designator=S2 Old Footprint=SPST-2 New Footprint=PTS530GG065SMTRLFS
+Added Member To Class: ClassName=Sensors Member=Component C17 0.1uF
+Added Member To Class: ClassName=Sensors Member=Component C21 0.1uF
+Added Member To Class: ClassName=UART-to-USB Member=Component C22 EEE-1CA100SR
+Added Member To Class: ClassName=UART-to-USB Member=Component C23 CAP 0.1 uF
+Added Member To Class: ClassName=Controller Member=Component P2 TELE_SPI
+Added Member To Class: ClassName=Controller Member=Component P3 UART
+Added Member To Class: ClassName=Controller Member=Component R8 0R
+Added Member To Class: ClassName=Controller Member=Component R9 0R
+Added Member To Class: ClassName=Recovery Member=Component R15 51k
+Added Member To Class: ClassName=Recovery Member=Component R17 10k
+Added Member To Class: ClassName=Recovery Member=Component R20 10K
+Added Member To Class: ClassName=Recovery Member=Component R22 12k
+Added Member To Class: ClassName=Sensors Member=Component U3 TLV70018DCKR
+Added Member To Class: ClassName=Misc Member=Component U5 MX25L25735FZ2I-10G
+Added Room: Name=Controller
+Added Room: Name=Misc
+Added Room: Name=Recovery
+Added Room: Name=Sensors
+Added Room: Name=UART-to-USB
