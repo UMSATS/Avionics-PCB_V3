@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=CS_TELE Pin=U1-10
+Removed Pin From Net: NetName=INT_TELE Pin=U1-11
+Added Pin To Net: NetName=CS_TELE Pin=U1-33
+Added Pin To Net: NetName=INT_TELE Pin=U1-39
+Added Member To Class: ClassName=Sensors Member=Component R10 0R
+Added Member To Class: ClassName=Controller Member=Component U1 STM32F401RET6
+Added Room: Name=Controller
+Added Room: Name=Misc
+Added Room: Name=Recovery
+Added Room: Name=Sensors
+Added Room: Name=UART-to-USB
