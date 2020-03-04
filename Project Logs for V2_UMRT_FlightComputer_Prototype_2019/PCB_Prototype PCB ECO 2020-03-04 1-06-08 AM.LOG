@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=Sensors Member=Component 1 ICM-20948
+Added Room: Name=Controller
+Added Room: Name=Misc
+Added Room: Name=Recovery
+Added Room: Name=Sensors
+Added Room: Name=UART-to-USB

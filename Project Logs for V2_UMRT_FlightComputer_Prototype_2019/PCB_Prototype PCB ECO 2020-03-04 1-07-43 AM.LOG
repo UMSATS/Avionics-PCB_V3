@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=U5 NewDesignator=FLASH
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetFLASH_6
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetFLASH_5
+Change Net Name : Old Net Name=NetR12_1 New Net Name=NetFLASH_3
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetFLASH_1
+Change Net Name : Old Net Name=NetU1_24 New Net Name=NetFLASH_7
+Change Net Name : Old Net Name=NetU1_26 New Net Name=NetFLASH_2
+Added Room: Name=Controller
+Added Room: Name=Misc
+Added Room: Name=Recovery
+Added Room: Name=Sensors
+Added Room: Name=UART-to-USB

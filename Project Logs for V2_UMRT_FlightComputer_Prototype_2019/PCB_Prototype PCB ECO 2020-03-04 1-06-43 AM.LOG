@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=1 NewDesignator=IMU
+Change Net Name : Old Net Name=Net1_10 New Net Name=NetC8_1
+Added Room: Name=Controller
+Added Room: Name=Misc
+Added Room: Name=Recovery
+Added Room: Name=Sensors
+Added Room: Name=UART-to-USB

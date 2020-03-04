@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=D2 NewDesignator=PWR
+Change Component Designator: OldDesignator=D3 NewDesignator=LED
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetPWR_1
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetLED_1
+Added Room: Name=Controller
+Added Room: Name=Misc
+Added Room: Name=Recovery
+Added Room: Name=Sensors
+Added Room: Name=UART-to-USB
