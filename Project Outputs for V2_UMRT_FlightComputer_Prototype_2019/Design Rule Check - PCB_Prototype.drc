@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\dev\projects\Avionics-PCB\Libraries\PCB Library Documents\PCB_Prototype.PcbDoc
 Date     : 2020-03-04
-Time     : 1:40:10 PM
+Time     : 1:51:32 PM
 
 Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
    Violation between Clearance Constraint: (Collision < 8mil) Between Area Fill (1805.118mil,2850.394mil) (2037.402mil,2992.126mil) on Top Layer And Pad J1-6(2086.614mil,2846.457mil) on Top Layer 
