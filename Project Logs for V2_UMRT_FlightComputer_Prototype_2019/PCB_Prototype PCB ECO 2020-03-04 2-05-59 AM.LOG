@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetFLASH_3 Pin=R12-1
+Removed Pin From Net: NetName=NetFLASH_2 Pin=U1-26
+Added Pin To Net: NetName=NetFLASH_2 Pin=R12-1
+Added Pin To Net: NetName=NetFLASH_3 Pin=U1-26
+Added Room: Name=Controller
+Added Room: Name=Misc
+Added Room: Name=Recovery
+Added Room: Name=Sensors
+Added Room: Name=UART-to-USB

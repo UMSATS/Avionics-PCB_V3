@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=U5 Old Footprint=S25FL064P0XMFA000 New Footprint=SON127P800X80_HS-9N
+Change Component Description : Designator=U5 Old Description=S25FL064P 64 Mb Flash Memory New Description=MX25L25735F 256 Mb Flash Memory
+Added Room: Name=Controller
+Added Room: Name=Misc
+Added Room: Name=Recovery
+Added Room: Name=Sensors
+Added Room: Name=UART-to-USB

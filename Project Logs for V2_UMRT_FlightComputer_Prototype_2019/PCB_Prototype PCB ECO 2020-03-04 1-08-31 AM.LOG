@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=U4 NewDesignator=PRES
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetPRES_5
+Change Net Name : Old Net Name=NetU1_37 New Net Name=NetPRES_7
+Change Net Name : Old Net Name=NetU1_38 New Net Name=NetPRES_6
+Added Room: Name=Controller
+Added Room: Name=Misc
+Added Room: Name=Recovery
+Added Room: Name=Sensors
+Added Room: Name=UART-to-USB
